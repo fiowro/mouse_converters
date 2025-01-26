@@ -44,8 +44,8 @@ The pinout of the mouse was figured out experimentally tracking the wires and pr
 
 3D Print the case:
 
-* ArdMouse4-Body.stl (main part)
-* ArdMouse4-Body001.stl (cover)
+* [ArdMouse4-Body.stl](ArdMouse4-Body.stl) (main part)
+* [ArdMouse4-Body001.stl](ArdMouse4-Body001.stl) (cover)
 
 You will need inserting pins into the holes of the *main part* to "assembly" jack.
 For example, you can cut off pins from Arduino and use them.
@@ -56,4 +56,4 @@ BTW, the sketch is heavily based on the [AmigaInputToUSB](https://github.com/Ble
 
 ## Usage
 
-Well. We [recreated mouse pad](Xerox_mousepad_A4.png) from scratch. You can print it on paper (Xerox did the same) and use.
+We [recreated the mouse pad](Xerox_mousepad_A4.png) from scratch. You can print it on paper (Xerox did the same) and use.
