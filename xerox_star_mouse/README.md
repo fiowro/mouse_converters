@@ -2,7 +2,7 @@
 
 This prject allows you to plug Xerox Star two- and three-button mice into USB and use them with any modern computer.
 
-![image](mouses.jpg)
+![image](mice.jpg)
 
 The converter is based on Arduino Pro Micro and uses a sophisticated 3D printed case.
 
@@ -28,7 +28,7 @@ Mouse uses colored wires.
 The pinout of the mouse was figured out experimentally tracking the wires and printed board.
 
 |No.| color | No. | Connected to     | Meaning |
-+---+-------+-----+------------------+---------+
+|---|-------|-----|------------------|---------|
 | 1 | red   |  3  |     U1 ( 7 / 10) | YB      |
 | 2 | brown |  2  |     U1 ( 8 /  9) | YA      |
 | 3 | yellow|  5  |     U1 ( 5 / 12) | XB      |
